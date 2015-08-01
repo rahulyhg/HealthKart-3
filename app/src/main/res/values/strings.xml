@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthKart</string>
+    <string name="alternate_title">An alternate title that is long</string>
+    <string name="toggle_title">Toggle title</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_about">about</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="appname">HealthKart</string>
+    <string name="apideveloper">Tarun Sharma</string>
+    <string name="use">use</string>
+    <string name="description">To consume this API through developed app enter product name and get the search results with some basic information for user and scroll down to bottom to get next page of  products </string>
+    <string name="apidescription">http://api.healthkart.com/api/search/results/? is being used to fetch healthKart product information</string>
+
+</resources>
